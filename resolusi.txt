@@ -2,6 +2,7 @@ Resolusi 2021
 
 - Konsisten belajar web
 - Semangat untuk TA
+- Wisuda 2021
 
 
 List Belajar
@@ -11,3 +12,4 @@ List Belajar
 - MVC
 - Laravel Auth
 - CRUD Laravel
+
