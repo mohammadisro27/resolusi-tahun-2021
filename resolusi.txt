@@ -1,0 +1,13 @@
+Resolusi 2021
+
+- Konsisten belajar web
+- Semangat untuk TA
+
+
+List Belajar
+
+- Git & Github
+- OOP PHP
+- MVC
+- Laravel Auth
+- CRUD Laravel
